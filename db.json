@@ -1,0 +1,147 @@
+{
+  "movies": [
+    {
+      "title": "ScreamPark",
+      "image": " https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/02/title-poster-12-600x885.jpg",
+      "type": "mystery",
+      "date": "2022-12-29",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "8",
+      "budget": "25crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 1
+    },
+    {
+      "title": "Darkness Lisa",
+      "image": "https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/02/title-poster-11-600x885.jpg",
+      "type": "thriller",
+      "date": "2023-05-15",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "7",
+      "budget": "30crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 2
+    },
+    {
+      "title": "Star of Stage",
+      "image": " https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/02/title-poster-10-600x885.jpg",
+      "type": "drama",
+      "date": "2023-05-29",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "9",
+      "budget": "10crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 3
+    },
+    {
+      "title": "Micheal's Life",
+      "image": "https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/02/title-poster-9-600x885.jpg",
+      "type": "mystery",
+      "date": "2023-05-14",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "7",
+      "budget": "15crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 4
+    },
+    {
+      "title": "The Pursuit Of Dreams",
+      "image": "https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/02/title-poster-8-600x885.jpg",
+      "type": "action",
+      "date": "2023-05-28",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "9",
+      "budget": "22crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 5
+    },
+    {
+      "title": "The Generations",
+      "image": " https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/02/title-poster-2-600x885.jpg",
+      "type": "thriller",
+      "date": "2023-05-22",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "8",
+      "budget": "30crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 6
+    },
+    {
+      "title": "Miss Lucy",
+      "image": "https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/03/title-poster-17-600x885.jpg",
+      "type": "mystery",
+      "date": "2023-05-27",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "",
+      "budget": "10crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 7
+    },
+    {
+      "title": "Wildlife Diary",
+      "image": "https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/03/title-poster-16-600x885.jpg",
+      "type": "thriller",
+      "date": "2023-05-07",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "6",
+      "budget": "5crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 8
+    },
+    {
+      "title": "The Birds",
+      "image": "https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/03/title-poster-15-600x885.jpg",
+      "type": "drama",
+      "date": "2023-05-10",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "9",
+      "budget": "20cr",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 9
+    },
+    {
+      "title": "Dragon's Daughter",
+      "image": "https://demo.gloriathemes.com/noxe/demo/wp-content/uploads/2020/03/title-poster-14-600x885.jpg ",
+      "type": "mystery",
+      "date": "2023-05-17",
+      "actor": "Sonia Williams , Alice Parmer , John Doe",
+      "director": "John Martucci",
+      "rating": "9",
+      "budget": "25crore",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam erat. Nibh cras pulvinar mattis nunc sed blandit libero.",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "username": "Riya patel",
+      "email": "r@gmail.com",
+      "password": "123",
+      "cpass": "123",
+      "id": 1
+    },
+    {
+      "username": "sansa ",
+      "email": "s@gmail.com",
+      "password": "1234",
+      "cpass": "1234",
+      "id": 2
+    },
+    {
+      "username": "nedd stark",
+      "email": "n@gmail.com",
+      "password": "23",
+      "cpass": "23",
+      "id": 3
+    }
+  ]
+}
